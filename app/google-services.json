@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480254292039",
+    "project_id": "blogify-27daa",
+    "storage_bucket": "blogify-27daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480254292039:android:3b97b4e93e69280f550162",
+        "android_client_info": {
+          "package_name": "com.example.blogify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480254292039-2uoqjojn3tvq9dkl01quf0ohukhu8g80.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blogify",
+            "certificate_hash": "f409e86a6bf01f15d30fa73a966eb18a6d64c06a"
+          }
+        },
+        {
+          "client_id": "480254292039-flsme1sk211siaoqs69bupncnvgukmim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYCuWjRhsTXpmTY-1sTE_neU6DUpKz-4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480254292039-flsme1sk211siaoqs69bupncnvgukmim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
